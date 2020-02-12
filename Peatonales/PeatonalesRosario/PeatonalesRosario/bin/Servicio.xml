@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Servicio</name>
+    </assembly>
+    <members>
+        <member name="P:Servicio.Filters.BasicAuthenticationIdentity.Password">
+            <summary>
+            Get/Set for password
+            </summary>
+        </member>
+        <member name="P:Servicio.Filters.BasicAuthenticationIdentity.UserName">
+            <summary>
+            Get/Set for UserName
+            </summary>
+        </member>
+        <member name="P:Servicio.Filters.BasicAuthenticationIdentity.UserId">
+            <summary>
+            Get/Set for UserId
+            </summary>
+        </member>
+        <member name="M:Servicio.Filters.BasicAuthenticationIdentity.#ctor(System.String,System.String,System.Collections.Generic.IEnumerable{System.Security.Claims.Claim})">
+            <summary>
+            Basic Authentication Identity Constructor
+            </summary>
+            <param name="userName"></param>
+            <param name="password"></param>
+        </member>
+        <member name="M:Servicio.Controllers.CareersController.Get(System.Int32)">
+            <summary>
+            Get the challenge with given ID.
+            </summary>
+            <param name="id">Filter by Id</param>
+            <returns>Single Cycle entity</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CareersController.GetCareers(System.Int32,System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Get every challenge in the context
+            [Roles: Admin, Empresas, Usuarios]
+            </summary>
+            <param name="state">Filter by state: 1 Saved, 2 published</param>
+            <param name="page">Page filter(if it has more than 1 page)</param>
+            <param name="top">Max amount of entities to be obtained</param>
+            <param name="orderby">Order by this property</param>
+            <param name="ascending">Order asc(ascending) or desc(descending)</param>
+            <param name="name">Name to be filter</param>
+            <returns>List of challenges
+            FinalType: 1) Sujeto a stock, 2) Cantidad de dias.
+            </returns>
+        </member>
+        <member name="M:Servicio.Controllers.CareersController.PostCareers(BusinessEntities.CareersBE)">
+            <summary>
+            Insert given challenge in the context
+            [Roles: Empresas, Admin]
+            </summary>
+            <param name="challenge">The challenge to be inserted</param>
+            <returns>Created link</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CareersController.PutChallenge(System.Int32,BusinessEntities.CareersBE)">
+            <summary>
+            Update given challenge
+            [Roles: Empresas, Admin]
+            </summary>
+            <param name="id">Filter by Id</param>
+            <param name="challenge">The challenge to be inserted</param>
+            <returns>Json OK</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CareersController.DeleteChallenge(System.Int32)">
+            <summary>
+            Delete given challenge  
+            [Roles: Admin, Empresas]
+            </summary>
+            <param name="id">The primary key of the challenge</param>
+            <returns>Json OK</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CyclesController.Get(System.Int32)">
+            <summary>
+            Get the challenge with given ID.
+            </summary>
+            <param name="id">Filter by Id</param>
+            <returns>Single Cycle entity</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CyclesController.GetCycles(System.Int32,System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Get every challenge in the context
+            [Roles: Admin, Empresas, Usuarios]
+            </summary>
+            <param name="state">Filter by state: 1 Saved, 2 published</param>
+            <param name="page">Page filter(if it has more than 1 page)</param>
+            <param name="top">Max amount of entities to be obtained</param>
+            <param name="orderby">Order by this property</param>
+            <param name="ascending">Order asc(ascending) or desc(descending)</param>
+            <param name="name">Name to be filter</param>
+            <returns>List of challenges
+            FinalType: 1) Sujeto a stock, 2) Cantidad de dias.
+            </returns>
+        </member>
+        <member name="M:Servicio.Controllers.CyclesController.PostCycles(BusinessEntities.CyclesBE)">
+            <summary>
+            Insert given challenge in the context
+            [Roles: Empresas, Admin]
+            </summary>
+            <param name="challenge">The challenge to be inserted</param>
+            <returns>Created link</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CyclesController.PutChallenge(System.Int32,BusinessEntities.CyclesBE)">
+            <summary>
+            Update given challenge
+            [Roles: Empresas, Admin]
+            </summary>
+            <param name="id">Filter by Id</param>
+            <param name="challenge">The challenge to be inserted</param>
+            <returns>Json OK</returns>
+        </member>
+        <member name="M:Servicio.Controllers.CyclesController.DeleteChallenge(System.Int32)">
+            <summary>
+            Delete given challenge  
+            [Roles: Admin, Empresas]
+            </summary>
+            <param name="id">The primary key of the challenge</param>
+            <returns>Json OK</returns>
+        </member>
+        <member name="P:Servicio.Helpers.NLogger.Logger">
+            <summary>
+            Get property for Logger
+            </summary>
+        </member>
+        <member name="M:Servicio.Helpers.NLogger.Trace(System.Net.Http.HttpRequestMessage,System.String,System.Web.Http.Tracing.TraceLevel,System.Action{System.Web.Http.Tracing.TraceRecord})">
+            <summary>
+            Implementation of TraceWriter to trace the logs.
+            </summary>
+            <param name="request"></param>
+            <param name="category"></param>
+            <param name="level"></param>
+            <param name="traceAction"></param>
+        </member>
+        <member name="M:Servicio.Helpers.NLogger.Log(System.Web.Http.Tracing.TraceRecord)">
+            <summary>
+            Logs info/Error to Log file
+            </summary>
+            <param name="record"></param>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.Handling.DocumentHandling.handling">
+            <summary>
+            Variable of class, type PictureValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.DocumentHandling.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.DocumentHandling.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.Handling.PictureHandling.handling">
+            <summary>
+            Variable of class, type PictureValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.PictureHandling.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.PictureHandling.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.Handling.SpreedSheetHandling.handling">
+            <summary>
+            Variable of class, type PictureValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.SpreedSheetHandling.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.Handling.SpreedSheetHandling.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.DocumentValidation.documentValidation">
+            <summary>
+            Variable of class, type DocumentValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.DocumentValidation.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.DocumentValidation.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.PictureValidation.pictureValidation">
+            <summary>
+            Variable of class, type PictureValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.PictureValidation.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.PictureValidation.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Servicio.Infraestructure.Facades.Files.SpreedSheetValidation.spreadSheetValidation">
+            <summary>
+            Variable of class, type SpreadSheetValidation.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.SpreedSheetValidation.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.Facades.Files.SpreedSheetValidation.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Servicio.Infraestructure.FileConfig.MimesSupported">
+             summary>
+            variable of class, type FileManager.
+             /summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.FileConfig.chargeextensions">
+             summary>
+            Private Constractor.
+             /summary>
+        </member>
+        <member name="F:Servicio.Infraestructure.FileConfiguration.fileManager">
+            <summary>
+            variable of class, type FileManager.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.FileConfiguration.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:Servicio.Infraestructure.FileConfiguration.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:WCFServices.Pocos.Files.FileConfiguration.fileManager">
+            <summary>
+            variable of class, type FileManager.
+            </summary>
+        </member>
+        <member name="M:WCFServices.Pocos.Files.FileConfiguration.#ctor">
+            <summary>
+            Private Constractor.
+            </summary>
+        </member>
+        <member name="M:WCFServices.Pocos.Files.FileConfiguration.GetInstance">
+            <summary>
+            Method with lazy instantiation.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -18,3 +18,7 @@ E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEnti
 E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
 E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
 E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb

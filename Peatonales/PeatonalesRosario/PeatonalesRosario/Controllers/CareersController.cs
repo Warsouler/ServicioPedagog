@@ -58,7 +58,7 @@ namespace Servicio.Controllers
         /// </returns>
         //[Authorize(Roles = "Admin, Empresas, Usuarios")]
         //[ClaimsAuthorizationAttribute(ClaimType = "Gestionar servicios")]
-        [Authorize]
+        //[Authorize]
         [ResponseType(typeof(PaginationList<CareersBE>))]
         //[PlayableAuthorizationFilter]
         public async Task<IHttpActionResult> GetCareers(Int32 state = 0, Int32 page = 1,

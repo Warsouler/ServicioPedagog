@@ -11,8 +11,8 @@ using Servicio.Filters;
 using System.Web.Http.OData.Builder;
 using Servicio.Models;
 //using Servicio.Models.Representations;
-using Microsoft.AspNet.WebApi.MessageHandlers.Compression;
-using Microsoft.AspNet.WebApi.MessageHandlers.Compression.Compressors;
+//using Microsoft.AspNet.WebApi.MessageHandlers.Compression;
+//using Microsoft.AspNet.WebApi.MessageHandlers.Compression.Compressors;
 
 namespace Servicio
 {
@@ -26,7 +26,7 @@ namespace Servicio
             config.Filters.Add(new HostAuthenticationFilter(OAuthDefaults.AuthenticationType));
             config.Filters.Add(new LoggingFilterAttribute());
             config.Filters.Add(new GlobalExceptionAttribute());
-            config.MessageHandlers.Insert(0, new ServerCompressionHandler(5 * 1024, new GZipCompressor(), new DeflateCompressor()));
+            //config.MessageHandlers.Insert(0, new ServerCompressionHandler(5 * 1024, new GZipCompressor(), new DeflateCompressor()));
 
             // Web API routes
             config.MapHttpAttributeRoutes();

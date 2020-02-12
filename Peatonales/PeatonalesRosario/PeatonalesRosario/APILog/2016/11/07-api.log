@@ -1,0 +1,328 @@
+2016-11-07 08:47:40.7239|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 08:48:00.9341|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":3}]}
+
+2016-11-07 08:48:06.8524|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"exception":{"ClassName":"PeatonalesRosario.ErrorHelper.ApiDataException","Message":null,"Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at PeatonalesRosario.Controllers.BooksController.<GetBook>d__3.MoveNext() in D:\\PeatonalesRosario\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BooksController.cs:line 76\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nMoveNext\nPeatonalesRosario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\nPeatonalesRosario.Controllers.BooksController+<GetBook>d__3\nVoid MoveNext()","HResult":-2146233088,"Source":"PeatonalesRosario","WatsonBuckets":null}}
+Error: No product found for this id.
+Error Code: 1001
+
+
+2016-11-07 08:48:55.5352|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":3}]}
+
+2016-11-07 08:48:57.2753|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"exception":{"ClassName":"PeatonalesRosario.ErrorHelper.ApiDataException","Message":null,"Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at PeatonalesRosario.Controllers.BooksController.<GetBook>d__3.MoveNext() in D:\\PeatonalesRosario\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BooksController.cs:line 76\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nMoveNext\nPeatonalesRosario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\nPeatonalesRosario.Controllers.BooksController+<GetBook>d__3\nVoid MoveNext()","HResult":-2146233088,"Source":"PeatonalesRosario","WatsonBuckets":null}}
+Error: No product found for this id.
+Error Code: 1001
+
+
+2016-11-07 08:51:09.4358|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 08:51:11.8980|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":3}]}
+
+2016-11-07 08:51:13.4721|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"exception":{"ClassName":"PeatonalesRosario.ErrorHelper.ApiDataException","Message":null,"Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at PeatonalesRosario.Controllers.BooksController.<GetBook>d__3.MoveNext() in D:\\PeatonalesRosario\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BooksController.cs:line 76\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nMoveNext\nPeatonalesRosario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\nPeatonalesRosario.Controllers.BooksController+<GetBook>d__3\nVoid MoveNext()","HResult":-2146233088,"Source":"PeatonalesRosario","WatsonBuckets":null}}
+Error: No product found for this id.
+Error Code: 1001
+
+
+2016-11-07 09:07:21.2514|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:07:49.1150|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:08:06.8580|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:11:11.1756|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:11:25.1084|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:11:41.0693|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:21:24.1786|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:28:09.2248|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:30:34.3001|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:34:13.2626|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 09:38:01.9387|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:26:32.8932|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:26:39.3826|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/allproducts
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:26:43.9918|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/allproducts
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:27:19.3149|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/1
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-11-07 10:27:24.8092|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:27:59.7612|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:28:11.5768|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/allproducts
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":null}]}
+
+2016-11-07 10:28:17.9222|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/allproductsewqewq
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":null}]}
+
+2016-11-07 10:28:22.9565|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/allproducts
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBook
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":null}]}
+
+2016-11-07 10:28:27.6708|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:29:20.1098|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$top=2
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:30:10.4836|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$top=2
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:30:47.1057|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:30:50.6539|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:31:03.0677|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:31:12.2222|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$top=2
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:31:25.1119|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:31:33.8374|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:32:35.5599|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=ProductId lt 3
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:53:14.0318|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=Title eq "hola"
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:53:34.4119|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=Title eq hola
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:54:09.6330|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=Title eq 'hola'
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:54:57.9957|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=Title eq "David Copperfield"
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 10:55:20.2580|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books?$filter=Title eq 'David Copperfield'
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 11:02:16.0658|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 11:04:00.1947|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/?$orderby=AuthorName asc&$top=2
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-07 11:04:28.4534|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/?$orderby=AuthorName asc
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

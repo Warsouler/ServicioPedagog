@@ -1,0 +1,98 @@
+2017-04-05 08:14:38.3716|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 08:14:38.3716|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-05 08:14:52.1294|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/Items
+Controller : PeatonalesRosario.Controllers.ItemsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":30,"orderby":"IdItem","ascending":"asc","name":""}]}
+
+2017-04-05 08:21:02.6756|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/9
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":9}]}
+
+2017-04-05 08:21:02.9076|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"name":"","page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-05 08:21:03.0966|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-05 08:21:17.8175|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 08:21:17.8175|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-05 08:21:31.3072|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/9
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":9}]}
+
+2017-04-05 08:21:31.3472|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"name":"","page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-05 08:21:31.3782|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-05 08:21:44.4230|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/9
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":9}]}
+
+2017-04-05 08:21:44.4650|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"name":"","page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-05 08:21:44.4930|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+

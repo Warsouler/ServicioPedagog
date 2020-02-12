@@ -1,0 +1,2418 @@
+2017-04-03 08:10:46.4906|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 08:10:46.4906|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 08:14:27.6832|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:17:54.6950|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:19:28.3504|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:28:43.9852|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:28:50.0965|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:37:18.0706|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:52:03.6332|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 08:56:57.8271|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:17:51.2776|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 11:17:51.2776|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 11:40:22.4829|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:41:46.6397|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/peatonusers/17
+Controller : PeatonalesRosario.Controllers.PeatonUsersController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":17}]}
+
+2017-04-03 11:41:46.7487|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:41:46.7967|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1688
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1688}]}
+
+2017-04-03 11:44:48.7181|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/peatonusers/17
+Controller : PeatonalesRosario.Controllers.PeatonUsersController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":17}]}
+
+2017-04-03 11:44:48.7511|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:44:48.7901|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1688
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1688}]}
+
+2017-04-03 11:45:06.7461|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:51:24.1017|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 11:54:59.9921|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 11:56:04.2007|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"exception":{"ClassName":"System.NullReferenceException","Message":"Object reference not set to an instance of an object.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at PeatonalesRosario.Controllers.BusinessController.<Get>d__3.MoveNext() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BusinessController.cs:line 60\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nMoveNext\nPeatonalesRosario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\nPeatonalesRosario.Controllers.BusinessController+<Get>d__3\nVoid MoveNext()","HResult":-2147467261,"Source":"PeatonalesRosario","WatsonBuckets":null}}
+Error: Object reference not set to an instance of an object.
+
+
+2017-04-03 12:09:09.8627|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:09:09.8627|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:09:21.7743|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:15:17.3877|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:15:17.3877|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:15:24.2831|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:15:58.5690|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:18:13.8728|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:20:45.7255|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:20:45.7255|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:20:50.8208|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:23:55.5713|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:23:55.5713|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:24:35.9786|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:25:25.9025|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:25:53.1811|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:27:35.9459|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:28:44.2588|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:28:44.2588|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:28:46.8260|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:28:57.2716|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.
+   at BusinessServices.BookServices.GetAll() in D:\PeatonUp\Peatonales\PeatonalesRosario\BusinessServices\Services\BookServices.cs:line 70
+   at PeatonalesRosario.Controllers.BooksController.GetBooks() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\BooksController.cs:line 67
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233088
+ReasonPhrase: InternalServerError
+Message: Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[DataModel.Book, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.BookEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.\r\n   at BusinessServices.BookServices.GetAll() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\BookServices.cs:line 70\r\n   at PeatonalesRosario.Controllers.BooksController.GetBooks() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BooksController.cs:line 67\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233088\r\nReasonPhrase: InternalServerError\r\nMessage: Error mapping types.\r\n\r\nMapping types:\r\nIEnumerable`1 -> IEnumerable`1\r\nSystem.Collections.Generic.IEnumerable`1[[DataModel.Book, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.BookEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]","messageArguments":[]}
+
+2017-04-03 12:28:57.2716|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.
+   at BusinessServices.AuthorServices.GetAll(Int32 page, Int32 pageSize, String orderBy, String ascending, Int32& count) in D:\PeatonUp\Peatonales\PeatonalesRosario\BusinessServices\Services\AuthorServices.cs:line 95
+   at PeatonalesRosario.Controllers.AuthorsController.<GetItems>d__2.MoveNext() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\AuthorsController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233088
+ReasonPhrase: InternalServerError
+Message: Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[DataModel.Author, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.AuthorBE, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.\r\n   at BusinessServices.AuthorServices.GetAll(Int32 page, Int32 pageSize, String orderBy, String ascending, Int32& count) in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\AuthorServices.cs:line 95\r\n   at PeatonalesRosario.Controllers.AuthorsController.<GetItems>d__2.MoveNext() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\AuthorsController.cs:line 41\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233088\r\nReasonPhrase: InternalServerError\r\nMessage: Error mapping types.\r\n\r\nMapping types:\r\nIEnumerable`1 -> IEnumerable`1\r\nSystem.Collections.Generic.IEnumerable`1[[DataModel.Author, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.AuthorBE, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]","messageArguments":[]}
+
+2017-04-03 12:29:05.4060|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:29:23.1221|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:29:23.1261|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:29:32.9816|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:30:29.7999|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:30:42.4646|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:31:14.5274|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:38:38.8738|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:38:38.8738|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:38:50.9115|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:40:43.0219|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 12:40:43.0219|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 12:41:03.2091|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:41:38.3581|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:42:38.1155|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:44:55.3094|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:45:10.7263|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:48:02.4591|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:49:44.5749|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:50:15.1227|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 12:50:22.4791|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 12:52:57.5090|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:52:59.8311|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 12:52:59.8761|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 12:53:53.3652|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:53:53.4642|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 12:53:53.5082|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 12:59:17.5337|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 12:59:17.6297|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 12:59:17.6717|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 13:05:26.8978|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 13:05:26.9348|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 13:05:26.9678|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 13:06:06.8261|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 13:06:06.8671|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 13:06:06.9041|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 13:06:19.1328|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 13:06:58.4271|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 13:06:58.4681|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 13:06:58.5051|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 14:02:19.2910|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 14:02:19.2910|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 14:06:34.0596|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:06:34.3056|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:06:34.3956|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:08:04.9848|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 14:08:04.9888|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 14:09:04.4022|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 14:09:04.4022|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 14:10:16.5783|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 14:10:16.5783|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 14:10:24.3657|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:10:24.5718|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:10:24.6378|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:14:40.0074|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:14:40.0374|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:14:40.0664|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:15:02.3926|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:15:02.4376|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:15:02.4676|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:27:38.0069|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:27:38.0979|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:27:38.1309|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:36:33.7685|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Exception of type 'Resolver.Exceptions.ApiBusinessException' was thrown.
+   at PeatonalesRosario.Controllers.AccountsController.<UpdateBusiness>d__11.MoveNext() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\Security\AccountController.cs:line 697
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 8
+ReasonPhrase: BadRequest
+Message: El password actual no es correcto
+Method: POST
+URL: http://localhost:8089/api/accounts/updatebusiness
+Controller : PeatonalesRosario.Controllers.AccountsController
+Action : UpdateBusiness
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Exception of type 'Resolver.Exceptions.ApiBusinessException' was thrown.\r\n   at PeatonalesRosario.Controllers.AccountsController.<UpdateBusiness>d__11.MoveNext() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\Security\\AccountController.cs:line 697\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 8\r\nReasonPhrase: BadRequest\r\nMessage: El password actual no es correcto","messageArguments":[]}
+
+2017-04-03 14:38:13.5542|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 14:38:13.5542|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 14:38:22.0447|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:38:22.2067|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:38:22.3017|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:40:12.4900|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:40:12.5170|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:40:12.5510|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:40:25.9668|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:40:26.0038|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:40:26.0328|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:43:08.2341|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:43:08.2681|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:43:08.3061|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:44:44.7776|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:44:44.8076|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:44:44.8396|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:45:12.8712|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:45:12.9012|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:45:12.9282|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:45:29.3651|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:45:29.4221|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:45:29.4511|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:47:30.6551|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:47:30.6841|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:47:30.7181|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:48:38.6880|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:48:38.7230|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:48:38.7510|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:51:08.5685|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:51:08.5945|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:51:08.6205|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:51:23.8314|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:51:23.8654|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:51:23.8944|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:53:23.6983|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:53:23.7323|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:53:23.7653|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:53:45.0165|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:53:45.0515|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:53:45.0785|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:54:09.7299|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:54:09.7639|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:54:09.7949|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:54:31.4491|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:54:31.4761|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:54:31.5131|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:54:53.8864|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:54:53.9884|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:54:54.0334|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:59:17.9845|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 14:59:18.0535|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 14:59:18.0845|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 14:59:24.7909|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.
+   at PeatonalesRosario.Infraestructure.Facades.Files.FileValidation.ValidateFileExist(String path) in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Infraestructure\Facades\Files\Validations\FileValidation.cs:line 84
+   at PeatonalesRosario.Controllers.MyFilesController.DownloadPublicPicture(FileResult file) in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\MyFilesController.cs:line 111
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: Gone
+Internal Code: 7779
+ReasonPhrase: Gone
+Message: La imagen no existe
+Method: POST
+URL: http://localhost:8089/api/MyFiles/DownloadPublicPicture
+Controller : PeatonalesRosario.Controllers.MyFilesController
+Action : DownloadPublicPicture
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.\r\n   at PeatonalesRosario.Infraestructure.Facades.Files.FileValidation.ValidateFileExist(String path) in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Infraestructure\\Facades\\Files\\Validations\\FileValidation.cs:line 84\r\n   at PeatonalesRosario.Controllers.MyFilesController.DownloadPublicPicture(FileResult file) in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\MyFilesController.cs:line 111\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: Gone\r\nInternal Code: 7779\r\nReasonPhrase: Gone\r\nMessage: La imagen no existe","messageArguments":[]}
+
+2017-04-03 15:00:12.4597|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:00:12.4927|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:00:12.5247|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:00:36.2040|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:00:36.2460|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:00:36.2780|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:07:03.1031|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 15:07:03.1031|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 15:07:07.4614|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.
+   at BusinessServices.BookServices.GetAll() in D:\PeatonUp\Peatonales\PeatonalesRosario\BusinessServices\Services\BookServices.cs:line 70
+   at PeatonalesRosario.Controllers.BooksController.GetBooks() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\BooksController.cs:line 67
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233088
+ReasonPhrase: InternalServerError
+Message: Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[DataModel.Book, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.BookEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Exception of type 'Resolver.Exceptions.ApiException' was thrown.\r\n   at BusinessServices.BookServices.GetAll() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\BookServices.cs:line 70\r\n   at PeatonalesRosario.Controllers.BooksController.GetBooks() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\BooksController.cs:line 67\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233088\r\nReasonPhrase: InternalServerError\r\nMessage: Error mapping types.\r\n\r\nMapping types:\r\nIEnumerable`1 -> IEnumerable`1\r\nSystem.Collections.Generic.IEnumerable`1[[DataModel.Book, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[BusinessEntities.BookEntity, BusinessEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]","messageArguments":[]}
+
+2017-04-03 15:07:13.5507|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 15:07:13.5577|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 15:11:18.4287|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:11:19.2968|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:11:19.7148|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:12:01.7312|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:12:03.6383|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:12:06.6365|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:15:33.6173|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:15:33.6683|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:15:33.6983|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:15:41.5328|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:15:41.5658|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:15:41.5978|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:16:12.8976|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:16:12.9296|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:16:12.9606|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:16:21.5161|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:16:21.5451|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:16:21.5781|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:17:04.9216|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:17:04.9546|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:17:04.9906|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:17:25.3387|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:17:25.3757|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:17:25.4167|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 15:18:01.0578|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 15:18:01.0928|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 15:18:01.1188|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:08:47.8180|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:08:48.8561|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:08:48.9471|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:09:32.0766|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:09:32.0956|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:09:32.1106|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:09:46.9114|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:09:46.9354|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:09:46.9524|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:09:53.7758|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:09:53.8108|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:09:53.8268|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:11:33.1735|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:11:33.2025|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:11:33.2215|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:13:08.1889|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:13:08.2199|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:13:08.2389|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:14:24.3433|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:14:24.3793|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:14:24.3943|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:15:18.1574|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:15:18.1754|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:15:18.1934|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:16:26.6253|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:16:26.6523|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:16:26.6673|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:17:57.1685|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:17:57.1865|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:17:57.2035|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:20:04.6347|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:20:04.6687|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:20:04.6898|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:20:20.8327|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:20:20.8557|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:20:20.8727|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:20:44.1500|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:20:44.1750|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:20:44.1750|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:21:18.8210|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:21:18.8420|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:21:18.8570|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:21:45.5855|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/peatonusers/17
+Controller : PeatonalesRosario.Controllers.PeatonUsersController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":17}]}
+
+2017-04-03 16:21:45.6625|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:21:45.6785|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1688
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1688}]}
+
+2017-04-03 16:21:57.7662|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:21:57.7942|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:21:57.8092|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:24:20.4714|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 16:24:20.5554|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:24:20.5784|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 16:24:40.4275|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 16:24:40.4275|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 16:26:50.7460|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 16:26:50.7460|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 16:27:50.6254|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 16:27:50.6254|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 16:28:03.7792|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:31:03.1504|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiDataException: Exception of type 'Resolver.Exceptions.ApiDataException' was thrown.
+   at PeatonalesRosario.Controllers.AccountsController.<CreateBusiness>d__10.MoveNext() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\Security\AccountController.cs:line 547
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 13
+ReasonPhrase: BadRequest
+Message: El número de Cuit/Cuil/CDI es inválido
+Method: POST
+URL: http://localhost:8089/api/accounts/createbusiness
+Controller : PeatonalesRosario.Controllers.AccountsController
+Action : CreateBusiness
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiDataException: Exception of type 'Resolver.Exceptions.ApiDataException' was thrown.\r\n   at PeatonalesRosario.Controllers.AccountsController.<CreateBusiness>d__10.MoveNext() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\Security\\AccountController.cs:line 547\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 13\r\nReasonPhrase: BadRequest\r\nMessage: El número de Cuit/Cuil/CDI es inválido","messageArguments":[]}
+
+2017-04-03 16:31:17.3092|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:32:25.1911|ERROR|PeatonalesRosario.Helpers.NLogger|Resolver.Exceptions.ApiDataException: Exception of type 'Resolver.Exceptions.ApiDataException' was thrown.
+   at PeatonalesRosario.Controllers.AccountsController.<CreateBusiness>d__10.MoveNext() in D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\Security\AccountController.cs:line 547
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 13
+ReasonPhrase: BadRequest
+Message: El número de Cuit/Cuil/CDI es inválido
+Method: POST
+URL: http://localhost:8089/api/accounts/createbusiness
+Controller : PeatonalesRosario.Controllers.AccountsController
+Action : CreateBusiness
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiDataException: Exception of type 'Resolver.Exceptions.ApiDataException' was thrown.\r\n   at PeatonalesRosario.Controllers.AccountsController.<CreateBusiness>d__10.MoveNext() in D:\\PeatonUp\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\Security\\AccountController.cs:line 547\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 13\r\nReasonPhrase: BadRequest\r\nMessage: El número de Cuit/Cuil/CDI es inválido","messageArguments":[]}
+
+2017-04-03 16:32:28.2713|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:40:42.8646|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/authors/
+Controller : PeatonalesRosario.Controllers.AuthorsController
+Action : GetItems
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":5,"orderby":"Id","ascending":"asc"}]}
+
+2017-04-03 16:40:42.8646|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-03 16:43:51.6794|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:43:51.8094|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:43:51.8844|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:44:46.2405|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:44:46.2725|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:44:46.2995|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:45:36.9164|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:45:58.8606|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:46:00.3937|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:46:19.8558|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:46:22.1030|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:46:22.1450|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:52:15.7292|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:52:15.7662|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:52:15.8042|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:52:23.7697|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:52:23.8067|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:52:23.8427|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:54:33.9701|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:54:33.9971|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:54:34.0241|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:56:37.5062|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:56:37.5492|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:56:37.5872|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:57:49.7363|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:57:49.7783|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:57:49.8113|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:58:06.1062|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:58:06.1632|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:58:06.1902|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:59:00.8454|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:59:00.8794|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:59:00.9054|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:59:07.3647|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:59:07.3907|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:59:07.4197|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 16:59:53.3834|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 16:59:53.4224|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 16:59:53.4544|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 17:00:43.9463|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/8
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":8}]}
+
+2017-04-03 17:00:43.9843|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 17:00:44.0093|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/1839
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1839}]}
+
+2017-04-03 17:01:33.3821|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 17:01:33.4311|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 17:01:33.4571|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+
+2017-04-03 17:02:02.8608|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/business/7
+Controller : PeatonalesRosario.Controllers.BusinessController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2017-04-03 17:02:02.8988|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/provinces?top=100
+Controller : PeatonalesRosario.Controllers.ProvincesController
+Action : GetProvinces
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"page":1,"top":100,"orderby":"idprovince","ascending":"asc"}]}
+
+2017-04-03 17:02:02.9428|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8089/api/locations/2328
+Controller : PeatonalesRosario.Controllers.LocationsController
+Action : GetLocation
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2328}]}
+

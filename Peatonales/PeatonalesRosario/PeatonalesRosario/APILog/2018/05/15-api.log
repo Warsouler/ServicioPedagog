@@ -1,0 +1,309 @@
+2018-05-15 22:12:22.6128|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=0
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:12:22.7598|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CyclesServices.cs:línea 96
+   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CyclesController.cs:línea 70
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233079
+ReasonPhrase: InternalServerError
+Message: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=0
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CyclesServices.cs:línea 96\r\n   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CyclesController.cs:línea 70\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233079\r\nReasonPhrase: InternalServerError\r\nMessage: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).","messageArguments":[]}
+
+2018-05-15 22:13:27.3208|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:13:29.4338|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CyclesServices.cs:línea 96
+   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CyclesController.cs:línea 70
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233079
+ReasonPhrase: InternalServerError
+Message: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+Method: GET
+URL: http://localhost:8105/api/Cycles
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CyclesServices.cs:línea 96\r\n   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CyclesController.cs:línea 70\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233079\r\nReasonPhrase: InternalServerError\r\nMessage: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).","messageArguments":[]}
+
+2018-05-15 22:13:58.3048|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:14:37.4588|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CyclesServices.cs:línea 96
+   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CyclesController.cs:línea 70
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233079
+ReasonPhrase: InternalServerError
+Message: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+Method: GET
+URL: http://localhost:8105/api/Cycles
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CyclesServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CyclesServices.cs:línea 96\r\n   en Servicio.Controllers.CyclesController.<GetCycles>d__3.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CyclesController.cs:línea 70\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233079\r\nReasonPhrase: InternalServerError\r\nMessage: The model backing the 'ServicioContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).","messageArguments":[]}
+
+2018-05-15 22:17:06.3348|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:21.1668|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?page=1&top=1
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":1,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:27.6948|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?page=1&top=5
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:32.8488|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=2&page=1&top=5
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":2,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:40.6878|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=3&page=1&top=5
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":3,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:43.8008|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:17:52.0018|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"idcycle","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:05.1358|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=Name
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"Name","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:10.1168|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:14.2348|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:17.2478|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name&ascending=desc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"desc","name":""}]}
+
+2018-05-15 22:18:21.9788|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:26.1088|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:18:28.8888|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=desc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"desc","name":""}]}
+
+2018-05-15 22:18:30.7968|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:19:57.8528|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:20:08.3488|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:20:14.7768|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:20:19.7828|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=1&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":1,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:20:22.8818|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?state=1&page=1&top=5&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":1,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+
+2018-05-15 22:20:25.7678|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Cycles?page=1&top=5&orderby=name&ascending=asc
+Controller : Servicio.Controllers.CyclesController
+Action : GetCycles
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"name","ascending":"asc","name":""}]}
+

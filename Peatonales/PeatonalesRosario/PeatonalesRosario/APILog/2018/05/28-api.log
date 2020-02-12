@@ -1,0 +1,1554 @@
+2018-05-28 22:49:06.7370|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:49:36.5260|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:52:25.5240|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:53:27.1610|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":null}]}
+
+2018-05-28 22:53:47.1450|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:54:12.8430|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pep"}]}
+
+2018-05-28 22:54:32.5520|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:54:39.4990|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=a
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"a"}]}
+
+2018-05-28 22:54:43.1980|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:54:51.1670|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=DDDDDA
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"DDDDDA"}]}
+
+2018-05-28 22:54:53.1060|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:54:57.5810|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 22:56:03.5180|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:56:06.9670|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=ddd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"ddd"}]}
+
+2018-05-28 22:56:15.6970|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pep"}]}
+
+2018-05-28 22:56:48.0350|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:56:50.0020|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:56:50.4770|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:56:56.3990|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=ddd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"ddd"}]}
+
+2018-05-28 22:56:57.2730|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:20.5300|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:25.7230|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:26.5570|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:27.1840|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:27.5230|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:27.9880|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqw"}]}
+
+2018-05-28 22:57:28.5900|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwd"}]}
+
+2018-05-28 22:57:29.9500|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqw"}]}
+
+2018-05-28 22:57:30.2600|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:31.4210|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqq"}]}
+
+2018-05-28 22:57:31.8030|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqqq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqqq"}]}
+
+2018-05-28 22:57:32.0770|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqq"}]}
+
+2018-05-28 22:57:32.2580|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:32.9070|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqw"}]}
+
+2018-05-28 22:57:33.5170|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwd"}]}
+
+2018-05-28 22:57:39.0130|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwde
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwde"}]}
+
+2018-05-28 22:57:40.7510|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwded
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwded"}]}
+
+2018-05-28 22:57:40.7900|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwdedf
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwdedf"}]}
+
+2018-05-28 22:57:40.9430|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwdedff
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwdedff"}]}
+
+2018-05-28 22:57:45.0440|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwde
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwde"}]}
+
+2018-05-28 22:57:45.8110|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqwe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqwe"}]}
+
+2018-05-28 22:57:46.3460|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dqe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dqe"}]}
+
+2018-05-28 22:57:46.3830|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:46.4390|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:48.6390|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:49.1680|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eab
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eab"}]}
+
+2018-05-28 22:57:50.2320|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:51.2450|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:51.4950|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:52.4480|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:52.6910|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:52.9300|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=abc
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"abc"}]}
+
+2018-05-28 22:57:54.2530|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:54.3970|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:57:54.5550|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:02.7890|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:03.0390|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:03.1250|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe"}]}
+
+2018-05-28 22:58:06.9260|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:07.1040|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:07.2650|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:07.9350|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:09.0830|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:09.1810|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=2ep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"2ep"}]}
+
+2018-05-28 22:58:09.2860|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=2epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"2epe"}]}
+
+2018-05-28 22:58:09.9410|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=2ep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"2ep"}]}
+
+2018-05-28 22:58:10.1040|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:10.2420|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:10.3860|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:10.7050|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:10.8260|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:10.9390|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe"}]}
+
+2018-05-28 22:58:11.2030|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe2
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe2"}]}
+
+2018-05-28 22:58:12.7660|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe"}]}
+
+2018-05-28 22:58:18.7800|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:21.6240|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:58:21.8220|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:59:37.9440|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:59:40.6230|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pep"}]}
+
+2018-05-28 22:59:43.3650|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 22:59:46.4500|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdw"}]}
+
+2018-05-28 22:59:46.4760|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwq"}]}
+
+2018-05-28 22:59:46.6150|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqd"}]}
+
+2018-05-28 22:59:46.6690|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqdw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqdw"}]}
+
+2018-05-28 22:59:46.6800|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqdwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqdwq"}]}
+
+2018-05-28 22:59:46.9830|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqdwqd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqdwqd"}]}
+
+2018-05-28 22:59:47.0610|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqdwqdw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqdwqdw"}]}
+
+2018-05-28 22:59:47.0800|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=pdwqdwqdwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"pdwqdwqdwq"}]}
+
+2018-05-28 22:59:48.1180|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:00:36.8600|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:00:40.8800|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eee
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eee"}]}
+
+2018-05-28 23:00:41.0500|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eeee
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eeee"}]}
+
+2018-05-28 23:00:41.9260|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:00:54.4150|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=ep
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"ep"}]}
+
+2018-05-28 23:01:01.6000|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe"}]}
+
+2018-05-28 23:01:02.6510|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe2
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe2"}]}
+
+2018-05-28 23:01:04.5820|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe2
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe2"}]}
+
+2018-05-28 23:01:05.7800|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=epe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"epe"}]}
+
+2018-05-28 23:01:08.6470|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 23:01:20.6570|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:26.2590|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:28.3010|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=p
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"p"}]}
+
+2018-05-28 23:02:30.0610|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:31.5350|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=o
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"o"}]}
+
+2018-05-28 23:02:31.6560|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=oe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"oe"}]}
+
+2018-05-28 23:02:32.3130|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=o
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"o"}]}
+
+2018-05-28 23:02:32.7420|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:33.5760|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=a
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"a"}]}
+
+2018-05-28 23:02:33.9990|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:34.6290|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 23:02:36.7500|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eo"}]}
+
+2018-05-28 23:02:38.0510|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 23:02:38.2880|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:38.6740|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=o
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"o"}]}
+
+2018-05-28 23:02:39.0360|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=oe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"oe"}]}
+
+2018-05-28 23:02:39.6560|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=o
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"o"}]}
+
+2018-05-28 23:02:39.8340|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:40.3630|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 23:02:40.9060|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eo"}]}
+
+2018-05-28 23:02:41.5430|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoo"}]}
+
+2018-05-28 23:02:41.7610|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eooo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eooo"}]}
+
+2018-05-28 23:02:42.1810|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoo"}]}
+
+2018-05-28 23:02:42.5830|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eo"}]}
+
+2018-05-28 23:02:42.8670|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoe"}]}
+
+2018-05-28 23:02:44.4030|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoee
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoee"}]}
+
+2018-05-28 23:02:44.9960|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoe"}]}
+
+2018-05-28 23:02:45.2350|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeo"}]}
+
+2018-05-28 23:02:45.5630|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeoo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeoo"}]}
+
+2018-05-28 23:02:46.1040|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeo"}]}
+
+2018-05-28 23:02:46.4650|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeoe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeoe"}]}
+
+2018-05-28 23:02:48.6070|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeoeo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeoeo"}]}
+
+2018-05-28 23:02:49.1380|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeoe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeoe"}]}
+
+2018-05-28 23:02:49.9040|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoeo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoeo"}]}
+
+2018-05-28 23:02:50.0990|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eoe
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eoe"}]}
+
+2018-05-28 23:02:50.4600|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=eo
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"eo"}]}
+
+2018-05-28 23:02:50.8590|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=e
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"e"}]}
+
+2018-05-28 23:02:51.5090|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:02:54.1050|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=a
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"a"}]}
+
+2018-05-28 23:02:54.3420|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=ab
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"ab"}]}
+
+2018-05-28 23:02:54.5810|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=abc
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"abc"}]}
+
+2018-05-28 23:02:55.2570|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:03:01.7810|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-28 23:03:03.1240|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:04:47.5480|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:05:50.0100|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:08:26.1930|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:11:01.3120|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:11:40.7590|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:12:35.8150|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:12:41.4150|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-28 23:12:42.4180|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:19:27.4010|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:19:46.1330|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:22:03.1660|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:24:04.8990|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:24:35.6730|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:27:19.0620|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:27:42.4910|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:27:44.6380|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:28:17.7170|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:28:39.1780|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:34:45.9750|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:34:51.9140|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:35:08.8970|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:35:19.2270|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:35:21.1390|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=a
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"a"}]}
+
+2018-05-28 23:35:57.1980|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:35:59.5270|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:38:12.7560|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:38:44.1770|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:42:49.8190|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:44:57.7510|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:50:56.0840|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:51:03.0610|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:51:03.1150|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dw"}]}
+
+2018-05-28 23:51:03.1520|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwq"}]}
+
+2018-05-28 23:51:03.2620|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqd"}]}
+
+2018-05-28 23:51:03.3200|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdw"}]}
+
+2018-05-28 23:51:03.3400|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdwq"}]}
+
+2018-05-28 23:51:04.1580|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdwqa
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdwqa"}]}
+
+2018-05-28 23:51:04.2860|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdwqaa
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdwqaa"}]}
+
+2018-05-28 23:51:05.5620|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdwqa
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdwqa"}]}
+
+2018-05-28 23:51:06.0980|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdwq"}]}
+
+2018-05-28 23:51:06.1340|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqdw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqdw"}]}
+
+2018-05-28 23:51:06.5410|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwqd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwqd"}]}
+
+2018-05-28 23:51:06.7440|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dwq
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dwq"}]}
+
+2018-05-28 23:51:06.9280|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dw
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dw"}]}
+
+2018-05-28 23:51:07.1100|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:51:07.3050|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:51:09.7940|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:51:11.6700|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=dd
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"dd"}]}
+
+2018-05-28 23:51:13.2340|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=d
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"d"}]}
+
+2018-05-28 23:51:13.4320|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:57:47.8780|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:58:06.4250|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:58:15.8160|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14,"Be":{"idcareers":14,"name":"DDDDDDDDD","state":1}}]}
+
+2018-05-28 23:58:17.0210|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:58:45.0100|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:58:48.6690|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/12
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12}]}
+
+2018-05-28 23:58:49.7350|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:00.1370|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/12
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12,"Be":{"idcareers":12,"name":"pepe3","state":1}}]}
+
+2018-05-28 23:59:00.9290|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:03.4240|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=a
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"a"}]}
+
+2018-05-28 23:59:03.6670|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers?name=aa
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":"aa"}]}
+
+2018-05-28 23:59:08.5930|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/13
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13,"Be":{"idcareers":13,"name":"aaaaaaa2","state":1}}]}
+
+2018-05-28 23:59:10.8670|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:14.2450|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/13
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2018-05-28 23:59:14.9510|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:20.7790|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/13
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13,"Be":{"idcareers":13,"name":"aaaaaaa25","state":2}}]}
+
+2018-05-28 23:59:27.8320|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:30.6460|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/13
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13,"Be":{"idcareers":13,"name":"aaaaaaa25","state":1}}]}
+
+2018-05-28 23:59:31.9100|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:34.9270|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/12
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12}]}
+
+2018-05-28 23:59:35.5950|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:37.8630|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15}]}
+
+2018-05-28 23:59:38.8900|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:41.1640|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/1
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2018-05-28 23:59:41.9480|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:43.7680|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/1
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1,"Be":{"idcareers":1,"name":"pepe","state":1}}]}
+
+2018-05-28 23:59:44.4870|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-28 23:59:47.3110|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/12
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12,"Be":{"idcareers":12,"name":"pepe3","state":1}}]}
+
+2018-05-28 23:59:47.9860|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+

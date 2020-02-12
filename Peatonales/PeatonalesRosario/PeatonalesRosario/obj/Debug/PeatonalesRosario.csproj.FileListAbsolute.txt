@@ -1,0 +1,721 @@
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\ApplicationInsights.config
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\csc.exe
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\vbc.exe
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe.config
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll.config
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.pdb
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Web.Infrastructure.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Owin.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\WebGrease.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.pdb
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.xml
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.dll
+c:\users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.pdb
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.Migrations.Initial.resources
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csproj.GenerateResource.Cache
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csprojResolveAssemblyReference.cache
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\DataModel.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.pdb
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.pdb
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.xml
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\PeatonalesRosario\bin\DataModel.pdb
+D:\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csprojResolveAssemblyReference.cache
+D:\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.Migrations.Initial.resources
+D:\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csproj.GenerateResource.Cache
+D:\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.dll
+D:\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\ApplicationInsights.config
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\csc.exe
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Reflection.Metadata.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\vbc.exe
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+D:\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe.config
+D:\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll.config
+D:\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\DataModel.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Web.Infrastructure.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Owin.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Unity.Mvc3.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Unity.WebApi.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\WebGrease.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\DataModel.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.pdb
+D:\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.xml
+D:\PeatonalesRosario\PeatonalesRosario\bin\Resolver.dll
+D:\PeatonalesRosario\PeatonalesRosario\bin\Resolver.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ApplicationInsights.config
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\csc.exe
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Reflection.Metadata.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\vbc.exe
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe.config
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll.config
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.Http.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Web.Infrastructure.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\NLog.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Owin.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Resolver.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Cors.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Unity.Mvc3.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Unity.WebApi.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\WebGrease.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\DataModel.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Resolver.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.Http.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\NLog.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\DataModel.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\de\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\es\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\fr\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\it\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ja\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ko\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\ru\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\System.Spatial.resources.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csprojResolveAssemblyReference.cache
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.xml
+D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+D:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csproj.App.config
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csprojResolveAssemblyReference.cache
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ApplicationInsights.config
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\csc.exe
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Reflection.Metadata.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\vbc.exe
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe.config
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll.config
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.XML
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\PeatonalesRosario.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ImageResizer.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.WebApi.MessageHandlers.Compression.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Web.Infrastructure.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\NLog.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Owin.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Resolver.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Swashbuckle.Core.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Extensions.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Primitives.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Cors.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Unity.Mvc3.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Unity.WebApi.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivatorEx.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebApi.Hal.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebGrease.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\DataModel.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\mercadopago.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Resolver.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ImageResizer.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\NLog.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Extensions.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Primitives.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebApi.Hal.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\DataModel.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\System.Spatial.resources.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ApplicationInsights.config
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\csc.exe
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Collections.Immutable.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\System.Reflection.Metadata.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\vbc.exe
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\roslyn\VBCSCompiler.exe.config
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ImageResizer.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.WebApi.MessageHandlers.Compression.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Web.Infrastructure.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\NLog.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Owin.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Resolver.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Swashbuckle.Core.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Extensions.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Primitives.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Cors.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Unity.Mvc3.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Unity.WebApi.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivatorEx.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebApi.Hal.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebGrease.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\DataModel.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\mercadopago.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessEntities.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\BusinessServices.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Resolver.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\AutoMapper.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ImageResizer.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.DependencyCollector.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.Web.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AI.WindowsServer.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.ApplicationInsights.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.Edm.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Data.OData.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Cors.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Jwt.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Newtonsoft.Json.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\NLog.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Extensions.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Primitives.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Spatial.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.OData.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.Owin.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Net.Http.Formatting.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Helpers.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Http.WebHost.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Mvc.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Optimization.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.Razor.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Deployment.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\System.Web.WebPages.Razor.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Thinktecture.IdentityModel.Core.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebActivator.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\WebApi.Hal.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Antlr3.Runtime.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\EntityFramework.SqlServer.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Google.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\DataModel.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\de\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\es\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\fr\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\it\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ja\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ko\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\ru\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hans\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\zh-Hant\System.Spatial.resources.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csproj.App.config
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\PeatonalesRosario.csprojResolveAssemblyReference.cache
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Servicio.dll.config
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Servicio.xml
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Servicio.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\bin\Servicio.pdb
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\Servicio.dll
+E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\obj\Debug\Servicio.pdb

@@ -1,0 +1,542 @@
+2018-05-18 16:42:12.7335|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 16:48:49.0255|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe22","state":0}}]}
+
+2018-05-18 16:50:12.8905|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"dwqdwqdqw","state":0}}]}
+
+2018-05-18 16:50:19.4855|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"dwqdwqdqw","state":0}}]}
+
+2018-05-18 16:52:02.1865|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"api","state":0}}]}
+
+2018-05-18 16:52:17.9075|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"api","state":0}}]}
+
+2018-05-18 16:52:17.9345|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 16:58:24.4365|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 16:58:24.4365|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 16:59:04.2135|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 16:59:04.2135|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:16:56.6005|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 17:16:56.6035|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:17:44.1135|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepessss","state":0}}]}
+
+2018-05-18 17:17:46.0075|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepessss","state":0}}]}
+
+2018-05-18 17:17:46.0105|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:19:39.9645|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 17:19:39.9645|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:19:52.5775|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe211","state":0}}]}
+
+2018-05-18 17:20:12.0545|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe2","state":0}}]}
+
+2018-05-18 17:20:16.3545|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe2","state":0}}]}
+
+2018-05-18 17:20:16.3545|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:25:02.5645|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 17:25:02.5645|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+
+2018-05-18 17:26:13.9975|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-18 17:26:13.9975|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre","messageArguments":[]}
+

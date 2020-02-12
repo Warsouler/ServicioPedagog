@@ -1,0 +1,575 @@
+2018-05-27 16:32:50.2763|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"oeoeoe","state":0}}]}
+
+2018-05-27 16:32:54.4843|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-27 16:32:54.5153|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre.
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre.","messageArguments":[]}
+
+2018-05-27 16:47:15.3993|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:48:40.8193|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:49:49.0843|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:52:27.3473|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:57:32.8553|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:59:30.8363|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 16:59:56.9803|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:01:23.6143|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:01:32.0863|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:07:00.1903|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:07:17.0123|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:21:24.1113|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:21:42.6753|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-27 17:21:42.7033|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre.
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre.","messageArguments":[]}
+
+2018-05-27 17:21:56.6623|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe","state":0}}]}
+
+2018-05-27 17:21:56.6623|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.
+   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\Servicio\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 46
+   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\Servicio\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 90
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: BadRequest
+Internal Code: 5
+ReasonPhrase: BadRequest
+Message: Ya existe una carrera con ese nombre, por favor elija otro nombre.
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiBusinessException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiBusinessException'.\r\n   en BusinessServices.Services.CareersServices.Create(CareersBE Be) en E:\\Servicio\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 46\r\n   en Servicio.Controllers.CareersController.<PostCareers>d__4.MoveNext() en E:\\Servicio\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 90\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: BadRequest\r\nInternal Code: 5\r\nReasonPhrase: BadRequest\r\nMessage: Ya existe una carrera con ese nombre, por favor elija otro nombre.","messageArguments":[]}
+
+2018-05-27 17:22:04.0293|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe2","state":0}}]}
+
+2018-05-27 17:22:43.8053|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:23:48.5833|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:23:53.5923|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepe3","state":0}}]}
+
+2018-05-27 17:25:56.8993|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:26:05.6763|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"aaaaaaa","state":0}}]}
+
+2018-05-27 17:26:08.3093|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:26:24.3873|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:26:40.3473|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:26:49.9973|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"FFFFFFFFFFFFF","state":0}}]}
+
+2018-05-27 17:26:58.8863|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:27:50.3543|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":5,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:29:38.9463|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:29:47.5973|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"2waka","state":0}}]}
+
+2018-05-27 17:29:49.8493|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:33:12.9233|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:33:37.8363|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:34:10.1223|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:34:27.1373|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14,"Be":{"idcareers":14,"name":"DDDDDDDDD","state":1}}]}
+
+2018-05-27 17:34:32.0393|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:36:55.8643|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:44:56.1593|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:45:33.2893|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:46:51.7883|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:47:21.8913|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:49:56.8413|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:50:03.4133|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:50:42.6593|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:53:30.5313|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:53:55.7543|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 17:54:02.1833|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:54:37.3303|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:55:46.7563|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:55:53.5563|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 17:56:03.2253|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 17:56:22.7153|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 18:00:33.1103|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 18:00:56.1843|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 18:01:32.8093|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 18:01:48.3733|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/15
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":15,"Be":{"idcareers":15,"name":"ZZZZZZZZZs","state":1}}]}
+
+2018-05-27 18:01:51.4643|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 18:01:54.8473|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 18:01:55.8053|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 18:02:05.8243|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Careers/14
+Controller : Servicio.Controllers.CareersController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":14}]}
+
+2018-05-27 18:02:07.0063|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2018-05-27 18:04:31.0583|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+

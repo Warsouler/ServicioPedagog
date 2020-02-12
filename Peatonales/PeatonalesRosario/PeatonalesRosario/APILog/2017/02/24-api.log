@@ -1,0 +1,151 @@
+2017-02-24 10:48:31.9155|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 11:45:05.3866|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 11:53:17.4168|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 11:55:08.0101|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 11:56:39.8453|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 11:58:25.4724|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:04:13.9803|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:04:55.1977|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:07:17.8728|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:08:24.1596|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:25:29.3203|ERROR|PeatonalesRosario.Helpers.NLogger|Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"exception":{"ClassName":"System.InvalidOperationException","Message":"No OWIN authentication manager is associated with the request.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Web.Http.HostAuthenticationFilter.GetAuthenticationManagerOrThrow(HttpRequestMessage request)\r\n   at System.Web.Http.HostAuthenticationFilter.<AuthenticateAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nGetAuthenticationManagerOrThrow\nSystem.Web.Http.Owin, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35\nSystem.Web.Http.HostAuthenticationFilter\nMicrosoft.Owin.Security.IAuthenticationManager GetAuthenticationManagerOrThrow(System.Net.Http.HttpRequestMessage)","HResult":-2146233079,"Source":"System.Web.Http.Owin","WatsonBuckets":null}}
+Error: No OWIN authentication manager is associated with the request.
+
+
+2017-02-24 12:31:46.0308|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 12:32:56.5008|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 12:40:55.7752|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 14:28:44.6672|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 14:51:58.0619|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 16:20:37.8262|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 16:25:37.3103|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 16:27:57.7314|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-24 16:33:12.6764|INFO|PeatonalesRosario.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:61253/api/books/
+Controller : PeatonalesRosario.Controllers.BooksController
+Action : GetBooks
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

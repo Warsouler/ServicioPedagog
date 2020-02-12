@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B3458A9-6115-45B8-BB02-9AB13A6FC892}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ServicioForms</RootNamespace>
+    <AssemblyName>ServicioForms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.5.2.2\lib\net451\Microsoft.IdentityModel.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.2.2\lib\net451\Microsoft.IdentityModel.Tokens.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.5.2.2\lib\net451\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Http">
+      <HintPath>..\BusinessServices\bin\Debug\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Builders\CareersBuilder.cs" />
+    <Compile Include="Carreras\frmAltaCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carreras\frmAltaCarrera.Designer.cs">
+      <DependentUpon>frmAltaCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carreras\frmBaseCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carreras\frmBaseCarreras.Designer.cs">
+      <DependentUpon>frmBaseCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carreras\frmListaCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carreras\frmListaCarreras.Designer.cs">
+      <DependentUpon>frmListaCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carreras\frmModificarCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carreras\frmModificarCarreras.Designer.cs">
+      <DependentUpon>frmModificarCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carreras\frmVerCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carreras\frmVerCarreras.Designer.cs">
+      <DependentUpon>frmVerCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\CareersAllController.cs" />
+    <Compile Include="Controllers\CareersController.cs" />
+    <Compile Include="Controllers\IController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Exceptions\ClientCodeHandler.cs" />
+    <Compile Include="Exceptions\CompositeFillErrors.cs" />
+    <Compile Include="Exceptions\CustomFormaterExceptions\JsonError.cs" />
+    <Compile Include="Exceptions\HandlerClientExceptions.cs" />
+    <Compile Include="Exceptions\Handlers\BaseExceptionClientHandler.cs" />
+    <Compile Include="Exceptions\Handlers\JsonErrorHandler.cs" />
+    <Compile Include="Exceptions\Handlers\SecurityExceptionClientHandler.cs" />
+    <Compile Include="General\ApplicationsVariables.cs" />
+    <Compile Include="General\DataValues.cs" />
+    <Compile Include="General\EnumStates.cs" />
+    <Compile Include="General\frmAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\frmAlta.Designer.cs">
+      <DependentUpon>frmAlta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\frmLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General\frmLista.Designer.cs">
+      <DependentUpon>frmLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\TokenDecode.cs" />
+    <Compile Include="General\TokenGrant.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Misc\EnvoirmentServices.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxys\BaseProxy.cs" />
+    <Compile Include="Proxys\CareersProxy.cs" />
+    <Compile Include="Proxys\IProxy.cs" />
+    <Compile Include="Proxys\LoginProxy.cs" />
+    <Compile Include="ViewModels\BaseVM.cs" />
+    <Compile Include="ViewModels\CareersVM.cs" />
+    <Compile Include="ViewModels\List\CareersList.cs" />
+    <EmbeddedResource Include="Carreras\frmAltaCarrera.resx">
+      <DependentUpon>frmAltaCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carreras\frmBaseCarreras.resx">
+      <DependentUpon>frmBaseCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carreras\frmListaCarreras.resx">
+      <DependentUpon>frmListaCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carreras\frmModificarCarreras.resx">
+      <DependentUpon>frmModificarCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carreras\frmVerCarreras.resx">
+      <DependentUpon>frmVerCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\frmAlta.resx">
+      <DependentUpon>frmAlta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\frmLista.resx">
+      <DependentUpon>frmLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Alumnos\" />
+    <Folder Include="Diagnosticos\" />
+    <Folder Include="Materias\" />
+    <Folder Include="Seguimientos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\icons\icons8-restart-64.png" />
+    <None Include="Content\icons\usersmult.png" />
+    <None Include="Content\icons\user-login-icon.png" />
+    <None Include="Content\icons\user-icon.png" />
+    <None Include="Content\icons\accept-icon.png" />
+    <None Include="Content\icons\Button-Close-icon.png" />
+    <None Include="Content\icons\add.png" />
+    <None Include="Content\icons\careers.png" />
+    <None Include="Content\icons\clean.png" />
+    <None Include="Content\icons\cleaner.png" />
+    <Content Include="Content\icons\exit.png" />
+    <Content Include="Content\icons\File-Delete-icon.png" />
+    <None Include="Content\icons\update-icon.png" />
+    <None Include="Content\icons\icons8-eye-64.png" />
+    <None Include="Content\icons\icons8-class-64.png" />
+    <None Include="Content\icons\icons8-curriculum-64.png" />
+    <None Include="Content\icons\icons8-sync-96.png" />
+    <None Include="Content\icons\icons8-user-account-filled-64.png" />
+    <None Include="Content\icons\icons8-user-groups-64.png" />
+    <None Include="Content\icons\LOG-64.png" />
+    <None Include="Content\icons\Login-icon.png" />
+    <None Include="Content\icons\logout-icon.png" />
+    <None Include="Content\icons\matters.png" />
+    <None Include="Content\icons\matters2.png" />
+    <None Include="Content\icons\school-learn-study-subject-literature-book-64.png" />
+    <None Include="Content\icons\searchicon.png" />
+    <None Include="Content\icons\Student-3-icon.png" />
+    <None Include="Content\icons\students.png" />
+    <None Include="Content\icons\studentscolor.png" />
+    <None Include="Content\icons\studentscolor2.png" />
+    <None Include="Content\icons\Symptom_Checker-64.png" />
+    <None Include="Content\icons\Symptom_Checker-256.png" />
+    <None Include="Content\icons\search36.png" />
+    <Content Include="Content\icons\icons8-clear-filters-36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PeatonalesRosario\Servicio.csproj">
+      <Project>{21998FC3-DA02-4305-B072-708B3D866F0D}</Project>
+      <Name>Servicio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Resolver\Resolver.csproj">
+      <Project>{EAAFE08C-E079-4FF4-8835-EA8808FDFDAF}</Project>
+      <Name>Resolver</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

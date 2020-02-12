@@ -1,0 +1,66 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>igGrid CRUD Demotitle</title>      
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/demo.js"></script>
+
+
+    
+    
+</head>
+<body>
+    <div id="body">
+        <ul id="contacts"></ul>
+    </div>
+    <h2>Create</h2>
+
+    <form id="saveContactForm" method="post">
+        <h3>Create a new Contact</h3>
+        <p>
+            <label for="contactId">Contact Id:</label>
+            <input type="text" name="Id" />
+        </p>
+        <p>
+            <label for="contactName">Contact Name:</label>
+            <input type="text" name="Name" />
+        </p>
+        <input type="button" id="saveContact" value="Save" />
+    </form>
+
+    <script>
+    function ajaxHelper(uri, method, data) {
+
+    return $.ajax({
+    type: method,
+    url: uri,
+    dataType: 'json',
+    contentType: 'application/json',
+    data: data ? JSON.stringify(data) : null
+    }).fail(function (jqXHR, textStatus, errorThrown) {
+    alert(errorThrown);
+    });
+    }
+
+    $('#saveContact').click(function () {
+    debugger;
+
+    ajaxHelper(Uri, 'POST', $("#saveContactForm").serialize()).done(function (data)
+    { })
+    })
+    </script>
+      
+
+
+    
+</body>
+</html>

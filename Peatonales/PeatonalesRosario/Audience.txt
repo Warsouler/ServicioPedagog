@@ -1,0 +1,4 @@
+ <add key="as:AudienceId" value="TwiceTalent" />
+    <add key="as:AudienceSecret" value="87f78eb4778591991ad7872aa1c5d9ebd3e1c14e5d5ed3b239c31eacc14231ab" />
+Hasheado en SHA-256 hash
+Algorithms.Sha384Digest

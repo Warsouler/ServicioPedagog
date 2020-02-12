@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EAAFE08C-E079-4FF4-8835-EA8808FDFDAF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Resolver</RootNamespace>
+    <AssemblyName>Resolver</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=5.1.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.5.1.1\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Mvc3, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Mvc3.1.2\lib\net40\Unity.Mvc3.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cryptography\Base64Encryption.cs" />
+    <Compile Include="Cryptography\ICryptography.cs" />
+    <Compile Include="Cryptography\MD5Encryption.cs" />
+    <Compile Include="Cryptography\RandomLink.cs" />
+    <Compile Include="Enumerations\ActivityEnum.cs" />
+    <Compile Include="Enumerations\ActivityState.cs" />
+    <Compile Include="Enumerations\AnswerEnum.cs" />
+    <Compile Include="Enumerations\BannerTypeEnum.cs" />
+    <Compile Include="Enumerations\BusinessScreenEnum.cs" />
+    <Compile Include="Enumerations\ClaimConverter.cs" />
+    <Compile Include="Enumerations\CodeStatesEnum.cs" />
+    <Compile Include="Enumerations\ComboEnum.cs" />
+    <Compile Include="Enumerations\FavoriteBusinesEnum.cs" />
+    <Compile Include="Enumerations\FinalTypeEnum.cs" />
+    <Compile Include="Enumerations\ImageTypeEnum.cs" />
+    <Compile Include="Enumerations\PublicationClickEnum.cs" />
+    <Compile Include="Enumerations\SearchTypeEnum.cs" />
+    <Compile Include="Enumerations\SocialEnum.cs" />
+    <Compile Include="Enumerations\SpecialPublicationStateEnum.cs" />
+    <Compile Include="Enumerations\StatesEnum.cs" />
+    <Compile Include="Enumerations\StatesPaymentsEnum.cs" />
+    <Compile Include="Enumerations\StatesReservationsEnum.cs" />
+    <Compile Include="Enumerations\StockTypeEnum.cs" />
+    <Compile Include="Enumerations\TypePointEnum.cs" />
+    <Compile Include="Enumerations\TypePrizeEnum.cs" />
+    <Compile Include="Enumerations\TypePromotionalCodeEnum.cs" />
+    <Compile Include="Exceptions\ApiBusinessException.cs" />
+    <Compile Include="Exceptions\ApiDataException.cs" />
+    <Compile Include="Exceptions\ApiException.cs" />
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="ComponentLoader.cs" />
+    <Compile Include="Exceptions\HandlerExceptions.cs" />
+    <Compile Include="Exceptions\Handlers\ApiBusinessExceptionHandler.cs" />
+    <Compile Include="Exceptions\Handlers\ApiDataExceptionHandler.cs" />
+    <Compile Include="Exceptions\Handlers\ApiExceptionHandler.cs" />
+    <Compile Include="Exceptions\Handlers\BaseExceptionHandler.cs" />
+    <Compile Include="Exceptions\Handlers\DbEntityValidationExceptionHandler.cs" />
+    <Compile Include="Exceptions\Handlers\GenericExceptionHandler.cs" />
+    <Compile Include="Exceptions\IApiExceptions.cs" />
+    <Compile Include="IComponent.cs" />
+    <Compile Include="IRegisterComponent.cs" />
+    <Compile Include="Mailing\BaseConfiguration.cs" />
+    <Compile Include="Mailing\ConfirmResetPasswordMail.cs" />
+    <Compile Include="Mailing\IMail.cs" />
+    <Compile Include="Mailing\IStateMail.cs" />
+    <Compile Include="Mailing\MailConfiguration.cs" />
+    <Compile Include="Mailing\PassChangeStateMail.cs" />
+    <Compile Include="Mailing\RegisterUserStateMail.cs" />
+    <Compile Include="Mailing\SimpleMail.cs" />
+    <Compile Include="Mappers\MapperHelpers.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryableExtensions\ParameterRebinder.cs" />
+    <Compile Include="QueryableExtensions\QueryableFilterExtensions.cs" />
+    <Compile Include="QueryableExtensions\Utility.cs" />
+    <Compile Include="StringExtensions\StringResolver.cs" />
+    <Compile Include="TypeDocuments\CUITValidations.cs" />
+    <Compile Include="TypeDocuments\DNIValidations.cs" />
+    <Compile Include="TypeDocuments\DocumentTypeFactory.cs" />
+    <Compile Include="TypeDocuments\IDocumentValidation.cs" />
+    <Compile Include="TypeDocuments\PassportValidation.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Mailing\Mail.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Unity.Mvc3.README.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

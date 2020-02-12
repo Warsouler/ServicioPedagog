@@ -1,0 +1,20 @@
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\go-puesto10\documents\visual studio 2015\Projects\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\PeatonalesProbandoAuthority\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\PeatonUp\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

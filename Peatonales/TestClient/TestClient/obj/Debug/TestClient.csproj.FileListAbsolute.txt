@@ -1,2 +1,0 @@
-c:\users\go-puesto10\documents\visual studio 2015\Projects\TestClient\TestClient\bin\Debug\TestClient.exe.config
-D:\PeatonApAlternativo\PeatonalesProbandoAuthority\TestClient\TestClient\bin\Debug\TestClient.exe.config

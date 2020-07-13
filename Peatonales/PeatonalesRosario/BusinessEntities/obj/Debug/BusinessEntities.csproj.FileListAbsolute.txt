@@ -22,3 +22,15 @@ E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\D
 E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
 E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
 E:\Proyectos\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\LeoyRosi\Desktop\Leo\Trabajo\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb

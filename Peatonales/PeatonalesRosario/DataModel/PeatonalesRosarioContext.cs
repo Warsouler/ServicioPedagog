@@ -37,6 +37,7 @@ namespace DataModel
         public System.Data.Entity.DbSet<DataModel.HistorialLogin> HistorialLogins { get; set; }
         public System.Data.Entity.DbSet<DataModel.Models.Cycles> Cycles { get; set; }
         public System.Data.Entity.DbSet<DataModel.Models.Careers> Careers { get; set; }
+        public System.Data.Entity.DbSet<DataModel.Models.Subjects> Subjects { get; set; }
 
 
 

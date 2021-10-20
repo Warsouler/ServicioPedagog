@@ -1,0 +1,948 @@
+2021-09-14 19:05:29.7000|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:05:42.2878|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"leo","state":0,"idcycle":0}}]}
+
+2021-09-14 19:05:42.5189|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 19:25:14.1155|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:25:28.8628|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 98
+   en Servicio.Controllers.SubjectsController.<GetSubjects>d__3.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 70
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: The underlying provider failed on Open.
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 98\r\n   en Servicio.Controllers.SubjectsController.<GetSubjects>d__3.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 70\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: The underlying provider failed on Open.","messageArguments":[]}
+
+2021-09-14 19:26:06.9749|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:26:10.9768|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:26:21.6677|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 98
+   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 68
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: The underlying provider failed on Open.
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 98\r\n   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 68\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: The underlying provider failed on Open.","messageArguments":[]}
+
+2021-09-14 19:26:21.6902|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 98
+   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 68
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: The underlying provider failed on Open.
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 98\r\n   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 68\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: The underlying provider failed on Open.","messageArguments":[]}
+
+2021-09-14 19:27:54.5233|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:27:58.2495|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:28:39.0077|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 98
+   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 68
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: The underlying provider failed on Open.
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 98\r\n   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 68\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: The underlying provider failed on Open.","messageArguments":[]}
+
+2021-09-14 19:28:39.0077|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\CareersServices.cs:línea 98
+   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\CareersController.cs:línea 68
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: The underlying provider failed on Open.
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.CareersServices.GetAll(Int32 state, Int32 page, Int32 pageSize, String orderBy, String ascending, String name, Int32& count) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\CareersServices.cs:línea 98\r\n   en Servicio.Controllers.CareersController.<GetCareers>d__3.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\CareersController.cs:línea 68\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: The underlying provider failed on Open.","messageArguments":[]}
+
+2021-09-14 19:29:17.1614|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:29:46.0708|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:29:54.0815|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:30:03.1199|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"poison","state":0,"idcycle":0}}]}
+
+2021-09-14 19:30:03.2916|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 19:31:25.7431|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:31:33.4518|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"pepe","state":0,"idcycle":0}}]}
+
+2021-09-14 19:31:33.6392|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 19:39:17.3572|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:39:24.9869|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"asasasa","state":0,"idcycle":0,"saraza":null}}]}
+
+2021-09-14 19:39:25.2467|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 19:43:56.7086|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:44:40.4787|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:44:49.6228|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"lolo","state":0,"saraza":null}}]}
+
+2021-09-14 19:44:49.8502|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 19:49:09.7226|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:55:18.6033|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:55:29.4426|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Careers/20
+Controller : Servicio.Controllers.CareersController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":20,"Be":{"idcareers":20,"name":"yyyy","state":1,"saraza":null}}]}
+
+2021-09-14 19:55:32.8556|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 19:55:36.1628|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:58:05.1738|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:58:11.2499|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/1
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1,"Be":{"idsubject":1,"name":"fisica2","state":1,"saraza":null}}]}
+
+2021-09-14 19:58:14.6055|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:58:32.7399|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Subjects/1
+Controller : Servicio.Controllers.SubjectsController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2021-09-14 19:58:33.6288|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 19:58:40.7582|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/1
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1,"Be":{"idsubject":1,"name":"fisica2","state":1,"saraza":null}}]}
+
+2021-09-14 19:58:41.8067|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:10:32.9354|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:11:51.4947|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:24:33.7889|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:24:40.2358|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pedro","state":0,"saraza":null}}]}
+
+2021-09-14 20:24:44.1043|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:24:54.7971|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pedrroo","state":0,"saraza":null}}]}
+
+2021-09-14 20:24:58.0142|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:25:00.4999|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:26:04.4108|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:26:13.5874|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : PostCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idcareers":0,"name":"pepees","state":0,"saraza":null}}]}
+
+2021-09-14 20:26:16.9283|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:26:47.1803|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 20:28:45.7619|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-09-14 20:28:50.9663|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"159","state":0,"idcycle":0,"saraza":null}}]}
+
+2021-09-14 20:28:51.2096|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 20:33:32.7276|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:33:39.4389|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"pedro","state":0,"idcycle":0,"saraza":null}}]}
+
+2021-09-14 20:33:39.6102|ERROR|Servicio.Helpers.NLogger|Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.
+   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessServices\Services\SubjectsServices.cs:línea 46
+   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\PeatonalesRosario\Controllers\SubjectsController.cs:línea 92
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+Status Code: InternalServerError
+Internal Code: -2146233087
+ReasonPhrase: InternalServerError
+Message: An error occurred while updating the entries. See the inner exception for details.
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"Resolver.Exceptions.ApiException: Se produjo una excepción de tipo 'Resolver.Exceptions.ApiException'.\r\n   en BusinessServices.Services.SubjectsServices.Create(SubjectsBE Be) en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\BusinessServices\\Services\\SubjectsServices.cs:línea 46\r\n   en Servicio.Controllers.SubjectsController.<PostSubjects>d__4.MoveNext() en C:\\Leo\\ProyectosIT\\ServicioPedagog\\Peatonales\\PeatonalesRosario\\PeatonalesRosario\\Controllers\\SubjectsController.cs:línea 92\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Filters.AuthorizationFilterAttribute.<ExecuteAuthorizationFilterAsyncCore>d__2.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.AuthenticationFilterResult.<ExecuteAsync>d__0.MoveNext()\r\n--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---\r\n   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()\r\nStatus Code: InternalServerError\r\nInternal Code: -2146233087\r\nReasonPhrase: InternalServerError\r\nMessage: An error occurred while updating the entries. See the inner exception for details.","messageArguments":[]}
+
+2021-09-14 20:35:39.4560|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:35:46.8223|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"jocha","state":0,"idcycle":1,"saraza":null}}]}
+
+2021-09-14 20:35:49.6934|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:36:13.3372|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Subjects/11
+Controller : Servicio.Controllers.SubjectsController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":11}]}
+
+2021-09-14 20:36:14.4809|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:36:17.4782|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/11
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":11,"Be":{"idsubject":11,"name":"jocha","state":1,"idcycle":1,"saraza":null}}]}
+
+2021-09-14 20:36:18.5056|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:36:57.3125|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-14 20:37:03.0482|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"puto","state":0,"idcycle":1,"saraza":null}}]}
+
+2021-09-14 20:37:05.6122|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+

@@ -26,8 +26,8 @@ namespace DataModel.UnitOfWork
         private ICareersRepository careersRepository;
         public ICareersRepository CareersRepository { get { if (careersRepository == null) careersRepository = new CareersRepository(context); return careersRepository; } set { careersRepository = value; } }
 
-
-
+        private ISubjectsRepository subjectsRepository;
+        public ISubjectsRepository SubjectsRepository { get { if (subjectsRepository == null) subjectsRepository = new SubjectsRepository(context); return subjectsRepository; } set { subjectsRepository = value; } }
 
 
 

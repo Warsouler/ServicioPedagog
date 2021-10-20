@@ -1,4 +1,5 @@
 ﻿using ServicioForms.Carreras;
+using ServicioForms.Subjects;
 using ServicioForms.General;
 using System;
 using System.Collections.Generic;
@@ -41,6 +42,9 @@ namespace ServicioForms
 
         private void btnMaterias_Click(object sender, EventArgs e)
         {
+
+            frmListaSubjects lc = new frmListaSubjects();
+            lc.ShowDialog();
 
         }
 

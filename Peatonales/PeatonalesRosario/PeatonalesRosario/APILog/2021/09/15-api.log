@@ -1,0 +1,21 @@
+2021-09-15 21:08:47.1359|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-09-15 21:08:56.9270|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"pedo","state":0,"idcycle":1,"saraza":null}}]}
+
+2021-09-15 21:09:00.2110|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+

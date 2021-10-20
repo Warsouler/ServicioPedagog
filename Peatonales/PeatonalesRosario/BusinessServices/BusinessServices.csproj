@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExternalDependency\NLogger.cs" />
+    <Compile Include="Interfaces\ISubjectsServices.cs" />
     <Compile Include="Interfaces\ICareersServices.cs" />
     <Compile Include="Interfaces\ICyclesServices.cs" />
     <Compile Include="Payments\IPayment.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="IOwinSecurityService.cs" />
     <Compile Include="OwinSecurityServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\SubjectsServices.cs" />
     <Compile Include="Services\CareersServices.cs" />
     <Compile Include="Services\CyclesServices.cs" />
   </ItemGroup>

@@ -319,6 +319,7 @@
     <Compile Include="App_Start\Swagger\HalResponseType.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Bootstrapper.cs" />
+    <Compile Include="Controllers\SubjectsController.cs" />
     <Compile Include="Controllers\CareersController.cs" />
     <Compile Include="Controllers\CyclesController.cs" />
     <Compile Include="Controllers\Security\RolesController.cs" />
@@ -6937,6 +6938,7 @@
     <Folder Include="APILog\" />
     <Folder Include="App_Data\" />
     <Folder Include="Filters\ClaimsFilters\" />
+    <Folder Include="Views\Subjects\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

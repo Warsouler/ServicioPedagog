@@ -28,6 +28,7 @@ namespace BusinessServices
             //registerComponent.RegisterType<IReportPrizeService, BusinessServices.Services.ReportPrizeService>();
             registerComponent.RegisterType<ICyclesServices, CyclesServices>();
             registerComponent.RegisterType<ICareersServices, CareersServices>();
+            registerComponent.RegisterType<ISubjectsServices, SubjectsServices>();
 
 
 

@@ -1,0 +1,168 @@
+2021-10-19 21:25:59.4345|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:32:01.9450|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:32:20.5757|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/12
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12,"Be":{"idsubject":12,"name":"puto2","state":1,"idcycle":1,"saraza":null}}]}
+
+2021-10-19 21:32:30.7434|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:32:38.9797|INFO|Servicio.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost:8105/api/Subjects/12
+Controller : Servicio.Controllers.SubjectsController
+Action : DeleteChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12}]}
+
+2021-10-19 21:32:40.7105|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:32:59.0466|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/12
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12,"Be":{"idsubject":12,"name":"puto23","state":2,"idcycle":1,"saraza":null}}]}
+
+2021-10-19 21:33:04.1377|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:33:10.1468|INFO|Servicio.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:8105/api/Subjects/12
+Controller : Servicio.Controllers.SubjectsController
+Action : PutChallenge
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":12,"Be":{"idsubject":12,"name":"puto23","state":1,"idcycle":1,"saraza":null}}]}
+
+2021-10-19 21:33:11.7989|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:33:22.0919|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=j
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"j"}]}
+
+2021-10-19 21:33:22.2259|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=jo
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"jo"}]}
+
+2021-10-19 21:33:23.5097|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=j
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"j"}]}
+
+2021-10-19 21:33:24.2963|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:33:28.8924|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=p
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"p"}]}
+
+2021-10-19 21:33:29.0304|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=pe
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"pe"}]}
+
+2021-10-19 21:33:30.9201|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=pe
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"pe"}]}
+
+2021-10-19 21:33:34.1133|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects?name=p
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":"p"}]}
+
+2021-10-19 21:33:34.3764|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:33:52.4468|INFO|Servicio.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : PostSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"Be":{"idsubject":0,"name":"fisica 1","state":0,"idcycle":1,"saraza":null}}]}
+
+2021-10-19 21:33:57.6295|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:34:10.2088|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Subjects
+Controller : Servicio.Controllers.SubjectsController
+Action : GetSubjects
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idsubject","ascending":"asc","name":""}]}
+
+2021-10-19 21:34:31.9737|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+
+2021-10-19 21:35:29.5669|INFO|Servicio.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:8105/api/Careers
+Controller : Servicio.Controllers.CareersController
+Action : GetCareers
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"state":0,"page":1,"top":9999999,"orderby":"idcareers","ascending":"asc","name":""}]}
+

@@ -34,3 +34,9 @@ C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities
 C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
 C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\c\Proy\Servicio\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Leo\ProyectosIT\ServicioPedagog\Peatonales\PeatonalesRosario\BusinessEntities\obj\Debug\BusinessEntities.pdb

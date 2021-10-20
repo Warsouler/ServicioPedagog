@@ -36,6 +36,7 @@ namespace Servicio
             //container.RegisterType<ITestService, TestService>();
             //container.RegisterType<IReportActivitiesService, ReportActivitiesService>();
             container.RegisterType<ICareersServices, CareersServices>();
+          //  container.RegisterType<ISubjectsServices, SubjectsServices>();
 
 
 

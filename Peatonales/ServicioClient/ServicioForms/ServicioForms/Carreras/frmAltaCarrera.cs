@@ -13,14 +13,14 @@ namespace ServicioForms.Carreras
 {
     public partial class frmAltaCarrera : ServicioForms.Carreras.frmBaseCarreras
     {
-        private CareersController _controller;
+        private CareersAllController _controller;
 
-        private CareersController Controller
+        private CareersAllController Controller
         {
             get
             {
                 if (_controller == null)
-                    _controller = new CareersController();
+                    _controller = new CareersAllController();
                 return _controller;
             }
 

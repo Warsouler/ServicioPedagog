@@ -1,0 +1,37 @@
+como entra un pedido de creacion en la base de datos desde API
+
+1)Subject Controller : instancia un ISubjectsServices _services 
+
+2)Subject Controller : se dispara este metodo:
+
+public async Task<IHttpActionResult> PostSubjects(SubjectsBE Be)
+
+Dentro de este metodo se utiliza _services.Create(Be) osea, se pasa el objeto BE a el servicio para que lo cree
+
+3) SubjectsServices : Ya que esta clase implementa ISubjectsServices y fue instanciada en 1) ahora toma Be y lo utiliza en el metodo Create.
+
+SubjectServices intancia un unitOfWork, que en definitva instancia un ServicioContext y tambien utiliza en repositorio de SubjectsRepository.
+
+Dentro de este metodo se MAPEA un objeto de entrada SubjectsBE a otro objecto de tipo Subjects.
+
+4) Aun dentro de SubjectsServices, una vez mapeado el BE en el DataModel correspondiente se utilizan 
+
+_unitOfWork.SubjectsRepository.Insert(entity);
+
+ ----- SubjectsRepository hereda de GenericRepository un metodo Insert que reañiza un dbSet.Add(entity); (agrega un cambio en la base para que cuendo se haga SaveChages esto quede listo)
+dbSet.Add en un metodo de Entity Framework
+
+
+y luego; 
+_unitOfWork.Commit(); 
+
+
+------ UnitOfWork tiene un metodo Commit que realiza: context.SaveChanges(); (salva en la base los cambios)
+
+este SaveChanges es un metodo del contexto heredado de la clase DbContext
+
+
+
+
+
+
